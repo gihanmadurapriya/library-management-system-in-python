@@ -414,4 +414,4 @@ For any inquiries, feedback, or suggestions, please reach out:
 
 **Last Updated**: July 18, 2026
 
-Made with ❤️ by Gihan Greshan
+Made with ❤️ by Gihan Madurapriya
