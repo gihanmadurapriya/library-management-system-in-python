@@ -395,10 +395,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 For any inquiries, feedback, or suggestions, please reach out:
 
-- **Author**: Gihan Greshan
-- **Email**: [gihangreshan@gmail.com](mailto:gihangreshan@gmail.com)
-- **GitHub**: [@gihangreshan1](https://github.com/gihangreshan1)
-- **Repository**: [Library Management System](https://github.com/gihangreshan1/Library-Management-System-in-Python)
+- **Author**: Gihan Madurapriya
+- **GitHub**: [@gihangreshan1](https://github.com/gihanmadurapriya)
+- **Repository**: [Library Management System](https://github.com/gihanmadurapriya/Library-Management-System-in-Python)
 
 ## 🚀 Future Enhancements
 
